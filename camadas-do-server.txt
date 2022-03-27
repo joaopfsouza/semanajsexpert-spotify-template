@@ -1,0 +1,7 @@
+Server
+    service = tudo que é regra de necofio opu processamento
+    controller =  intermediar a camada de apresentação e a camada de negocio
+    routes =  camda de apresentacao
+    server =  responsavel por criar o servidor (mas não isntancia)
+    index = instancia o servidor e expoe para web (lado da insfraestrutura)
+    config =  tudo que for estático do projeto
